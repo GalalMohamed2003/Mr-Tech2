@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdca5cfb.css",
+    "main.js": "/static/js/main.41df6f10.js",
+    "static/js/453.55e1ccb9.chunk.js": "/static/js/453.55e1ccb9.chunk.js",
+    "static/media/WhatsApp Image 2024-04-20 at 8.17.25 PM (1).jpeg": "/static/media/WhatsApp Image 2024-04-20 at 8.17.25 PM (1).a0a1c0b0c8571b2f48fc.jpeg",
+    "static/media/WhatsApp Image 2024-04-20 at 8.17.25 PM.jpeg": "/static/media/WhatsApp Image 2024-04-20 at 8.17.25 PM.bd24f1ba90cd726e7cd2.jpeg",
+    "static/media/WhatsApp Image 2024-04-20 at 8.17.25 PM (2).jpeg": "/static/media/WhatsApp Image 2024-04-20 at 8.17.25 PM (2).8455f404b6039c7ecd03.jpeg",
+    "static/media/photo1713217401-removebg-preview.png": "/static/media/photo1713217401-removebg-preview.c572c3fd0de059c4f709.png",
+    "static/media/photo__x-removebg-preview.png": "/static/media/photo_5832392496947249219_x-removebg-preview.953ac2c70c727ae2dc5a.png",
+    "static/media/msg1054246336-19975-removebg-preview.png": "/static/media/msg1054246336-19975-removebg-preview.2f7c54d296f782ee5731.png",
+    "static/media/Rectangle 77.png": "/static/media/Rectangle 77.e6c84597fc6772b6882f.png",
+    "index.html": "/index.html",
+    "main.cdca5cfb.css.map": "/static/css/main.cdca5cfb.css.map",
+    "main.41df6f10.js.map": "/static/js/main.41df6f10.js.map",
+    "453.55e1ccb9.chunk.js.map": "/static/js/453.55e1ccb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdca5cfb.css",
+    "static/js/main.41df6f10.js"
+  ]
+}
